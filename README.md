@@ -39,9 +39,3 @@ Customer:
 Email: user@cinebook.local
 Password: user123
 ```
-
-## Notes
-
-- The payment page is a simulation for academic use only.
-- Poster fields can store a local path such as `assets/images/poster-placeholder.svg` or an external image URL.
-- The seed showtimes use dates in August 2026. If you use the project after those dates, add new showtimes from the admin panel.
